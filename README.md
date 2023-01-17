@@ -55,7 +55,7 @@
 |  pyniu.txt | 2022-09-04 07:32:12 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pyniu.txt) |
 |  cks2K01.json | 2022-09-02 17:01:53 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/cks2K01.json) |
 |  q73m.json | 2022-09-01 14:40:01 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/q73m.json) |
-  
+|  小雅|实时更新|[地址]http://drpy.site/js1) |
 
 
 
