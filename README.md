@@ -57,6 +57,13 @@
 |  q73m.json | 2022-09-01 14:40:01 |[地址](https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/q73m.json) |
 |  小雅|实时更新|[地址](http://drpy.site/js1) |
 |  俊哥|实时更新|[地址](http://home.jundie.top:81/top98.json) |
+|  神器|实时更新|[地址](https://神器每日推送.tk/pz.json) |
+|  肥猫实时更新|[地址](http://肥猫.love) |
+|  饭太硬|实时更新|[地址](http://饭太硬.ga/x/o.json) |
+|  唐|实时更新|[地址](https://hutool.ml/tang) |
+|  巧|实时更新|[地址](http://pandown.pro/tvbox/tvbox.json |
+|  云星|实时更新|[地址](https://maoyingshi.cc/tvbox/云星日记/1.m3u8) |
+
 
 
 
